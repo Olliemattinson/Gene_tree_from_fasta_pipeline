@@ -1,0 +1,43 @@
+# Tree names (input files in format <tree_name>.fasta)
+treeNames:
+  - OG0001616_DCT
+  - OG0000471_TPT
+  - OG0001769_BASS1_2
+  - OG0002427_DIC
+  - OG0002922_UCP
+  - OG0003637_DTC
+  - OG0001153_MPC
+  - Combined_OG_MC
+  - OG0007258_BASS3
+  - OG0005223_BASS4
+  - OG0005137_BASS5_6
+  - Combined_OG_BASS
+  - OG0007885_UCP3
+
+# Species names (exactly as written in gene names in fasta file)
+speciesNames:
+  - Zmays
+  - Sbicolor
+  - Sviridis
+  - Pvirgatum
+  - Osativa
+  - Bdistachyon
+  - Spolyrhiza
+  - Slycopersicum
+  - Mguttatus
+  - Gmax
+  - Athaliana
+  - Brapa
+  - Atrichopoda
+  - Smoellendorffii
+  - Ppatens
+  - Mpolymorpha
+  - Creinhardtii
+  - Scerevisiae
+  - Escherichia_coli
+  - Rhizobium_leguminosarum
+  - Corynebacterium_glutamicum
+  - Bacillus_subtilis
+  - Campylobacter_jejuni
+  - Neisseria_meningitidis
+  - Nostoc_sp

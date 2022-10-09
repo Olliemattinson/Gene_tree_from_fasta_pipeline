@@ -1,0 +1,8 @@
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - mafft=7.508
+  - iqtree=2.2.0.3
+  - biopython=1.79
