@@ -1,18 +1,11 @@
-# Tree names (input files in format <tree_name>.fasta)
+# Tree names (input files in format <tree_name>.fa)
 treeNames:
-  - OG0001616_DCT
-  - OG0000471_TPT
-  - OG0001769_BASS1_2
-  - OG0002427_DIC
-  - OG0002922_UCP
-  - OG0003637_DTC
-  - OG0001153_MPC
-  - Combined_OG_MC
-  - OG0007258_BASS3
-  - OG0005223_BASS4
-  - OG0005137_BASS5_6
-  - Combined_OG_BASS
-  - OG0007885_UCP3
+  - Combined_OG_MPA
+  - OG0001988_MPA
+  - OG0021415_YqhA
+
+# Set to TRUE to use only species under speciesNames, or FALSE to use all species in original
+selectSpecies: 'FALSE'
 
 # Species names (exactly as written in gene names in fasta file)
 speciesNames:

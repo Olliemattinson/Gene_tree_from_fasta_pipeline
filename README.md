@@ -4,7 +4,7 @@ Snakemake pipeline for selecting gene sequences from select species within fasta
 
 #### To run pipeline:
 - Place input fasta files ```<tree_name>.fa``` in ```input```
-- Update tree names and species names in ```Gene_tree_from_fasta_config.yaml``` as directed in file
+- Update tree names, select species toggle, and species names in ```Gene_tree_from_fasta_config.yaml``` as directed in file
 - Activate a conda environment with snakemake installed
 - Run the following command:
 ```
